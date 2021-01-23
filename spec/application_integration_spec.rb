@@ -1,6 +1,6 @@
 require 'spec_helper'
 
-drequire 'spec_helper'
+require 'spec_helper'
  
 describe "GET '/' - Greeting Form" do
   # Code from previous example
