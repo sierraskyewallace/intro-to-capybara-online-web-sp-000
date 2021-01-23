@@ -3,4 +3,3 @@
     erb :index
   end
 end
-end
